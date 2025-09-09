@@ -103,4 +103,4 @@ ai-trends-dashboard/
 
 ---
 
-**Enjoy your AI news dashboard! 🎉**
+

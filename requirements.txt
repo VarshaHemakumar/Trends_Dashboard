@@ -1,4 +1,6 @@
 streamlit
+flask
+gunicorn
 openai
 beautifulsoup4
 requests
@@ -6,9 +8,6 @@ python-dotenv
 plotly
 pandas
 Pillow
-flask
-gunicorn
 python-dateutil
 lxml
 certifi
-

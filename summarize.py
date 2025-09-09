@@ -13,8 +13,10 @@ def summarize_text(text, max_words=60):
     prompt = f"Summarize the following in {max_words} words:\n\n{text}"
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}]
-    )
+    model="gpt-4o-mini",
+    messages=[{"role": "user", "content": prompt}],
+    max_tokens=120   
+)
+
 
     return response.choices[0].message.content.strip()

@@ -24,6 +24,7 @@ A comprehensive AI news aggregator that collects and summarizes articles from mu
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+
    ```
 
 3. **Set up OpenAI API key**
@@ -99,8 +100,12 @@ ai-trends-dashboard/
 - **Modify sources**: Add/remove scrapers in `scrapers.py`
 - **Adjust summaries**: Change word limit in `summarize.py`
 
+---
+##  Preview
+<img width="1299" height="773" alt="Screenshot 2025-09-08 at 10 21 17 PM" src="https://github.com/user-attachments/assets/b727b584-2247-48f8-a105-31c1ad2fc191" />
 
+<img width="1320" height="712" alt="Screenshot 2025-09-08 at 10 21 34 PM" src="https://github.com/user-attachments/assets/8d8a77c6-1998-40c3-8f7e-fc07611cc099" />
+
+<img width="1321" height="712" alt="Screenshot 2025-09-08 at 10 22 54 PM" src="https://github.com/user-attachments/assets/861a3065-19ad-480c-bfac-a1ad44e844d6" />
 
 ---
-
-

@@ -10,4 +10,5 @@ flask
 gunicorn
 python-dateutil
 lxml
+certifi
 
